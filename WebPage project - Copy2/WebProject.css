@@ -107,5 +107,12 @@
     font-size: 25px;
 }
 
-   
-
+#feedback{
+    font-family: monospace;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 50px auto;
+}
