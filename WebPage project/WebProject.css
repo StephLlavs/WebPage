@@ -1,0 +1,111 @@
+.header {
+    font-family: cursive;
+    text-align: center;
+    border: 1.5px solid blue;
+    color: white;
+    background-color: darkblue;
+    margin: 2p;
+    padding: 1px red;
+}
+    .Options {
+        height: 25%;
+        font-family: 'Signika', sans-serif;
+        border-spacing: 10px;
+        width: 100%;
+    }
+    
+
+    .foots{
+        position: fixed;
+        text-align: center;
+        bottom: 0;
+        width: 100%;
+        background:wheat;
+        
+    }
+    .button{
+        color: blanchedalmond;
+       
+    }
+
+    .btn {
+        padding: 1em 2.1em 1.1em;
+        border-radius: 3px;
+        margin: 8px 8px 8px 8px;
+        color: lightgreen;
+        background-color: orangered;
+        display: inline-block;
+        background: black;
+        -webkit-transition: 0.3s;
+        -moz-transition: 0.3s;
+        -o-transition: 0.3s;
+        transition: 0.3s;
+        font-family: sans-serif;
+        font-weight: 800;
+        font-size: .85em;
+        text-transform: uppercase;
+        text-align: center;
+        text-decoration: none;
+    }
+
+.btn:hover, .btn:focus {
+    opacity: 0.8;
+    color: purple
+}
+.btn:active {
+    -webkit-transform: scale(0.80);
+    -moz-transform: scale(0.80);
+    -ms-transform:scale(0.80);
+    transform: scale(0.80);
+}
+.btn.block {
+    display: block !important;
+}
+.btn.circular {
+  border-radius: 50em !important;
+}
+.center{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+}
+.game {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 150%;
+}
+.resp {
+    width: 19%;
+    border-radius: 15px;
+    background: darkgoldenrod;
+    background-position: center;
+    padding: 5px;
+}
+.resp:hover, .resp:focus {
+    opacity: 0.8;
+    color: purple
+}
+.resp:active {
+    -webkit-transform: scale(0.80);
+    -moz-transform: scale(0.80);
+    -ms-transform:scale(0.80);
+    transform: scale(0.80);
+}
+.catch {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: cursive;
+    font-size: 55px;
+    color: orangered;
+}
+.adress {
+    text-align: left;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:lightgreen;
+    font-size: 25px;
+}
+
+   
+
